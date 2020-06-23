@@ -29,15 +29,15 @@ Exploratory Data Analysis (EDA)
 	
 Exploratory Data Analysis is the one of the Important steps in making the prediction and classification model  
 
-•	Understanding the Data
-  o	Categorical or Numerical
-•	Checking for the missing values
-  o	In the case we have 182 missing values in train.csv data and 127 missing values in test.csv data.
-  o	Replaced the data with Median value
+•Understanding the Data
+  -Categorical or Numerical
+•Checking for the missing values
+  -In the case we have 182 missing values in train.csv data and 127 missing values in test.csv data.
+  -Replaced the data with Median value
 Data Splitting 
 
-•	Data Splitting for Train and Test set to Evaluate our model.
-•	Here we take 75 % of Train data and 25% of test .
+•Data Splitting for Train and Test set to Evaluate our model.
+•Here we take 75 % of Train data and 25% of test .
 
 Model Building
 
